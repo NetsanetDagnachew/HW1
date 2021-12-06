@@ -1,0 +1,177 @@
+/*Developed by : Netsanet Dagnachew*/
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  border: 2px soli rgb(95, 136, 146);
+}
+img {
+  width: 100%;
+}
+header {
+  background-color: rgb(228, 225, 222);
+  width: auto;
+  text-align: center;
+  padding: 15px;
+}
+header h1 {
+  color: rgb(95, 136, 146);
+
+  text-align: center;
+}
+nav {
+  background-color: rgb(95, 136, 146);
+  padding-top: 20px;
+}
+#ul {
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 5px 10px 10px 10px;
+}
+nav li {
+  display: inline;
+  padding-left: 15px;
+  color: white;
+  margin: 10px;
+}
+nav ul {
+  padding: 5px;
+}
+
+nav li a:link {
+  color: white;
+  text-decoration: none;
+}
+
+#sec_2 {
+  display: flex;
+  width: auto;
+}
+.left_div {
+  margin: 10px 10px 10px 0px;
+}
+.ecomerce {
+  margin-bottom: 15px;
+}
+.say_no {
+  margin: opx 10px 20px 20px;
+  text-align: center;
+}
+.waman_shopp {
+  margin: 15px 0px;
+}
+
+footer {
+  background-color: rgb(95, 136, 146);
+  padding-top: 0px;
+  color: white;
+}
+.footer_li {
+  padding: 5px 20px 20px 20px;
+  margin-left: 60px;
+}
+fieldset {
+  background-color: #dddcdc;
+}
+.right_div {
+  margin: 10px 10px 10px 0px;
+}
+.first_article {
+  border: 2px solid rgb(95, 136, 146);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.sec_art {
+  border: 2px solid rgb(95, 136, 146);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.third_arti {
+  border: 2px solid rgb(95, 136, 146);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.online {
+  margin: 30px 0px;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 50px;
+  padding: 30px;
+}
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+input {
+  margin: 15px;
+}
+
+/*the following is for kids.html page*/
+#main_con {
+  border: 1px solid brown;
+  background-color: rgb(64, 150, 172);
+}
+
+#heder_div {
+  background-color: rgb(228, 225, 222);
+  color: rgb(3, 130, 161);
+}
+#for_ur {
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+#second_div {
+  display: flex;
+  margin-bottom: 40px;
+}
+.img_1 {
+  width: 33%;
+}
+.img_2 {
+  width: 33%;
+}
+.img_3 {
+  width: 33%;
+}
+.im_2 {
+  margin-right: 0px;
+}
+.img_3 {
+  padding: 0px 10px 30px;
+}
+.third_div {
+  display: flex;
+  margin-bottom: 10px;
+}
+.for_p {
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+font-family:Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva ; 
+}
+.inside_left {
+  width: 49%;
+  margin-right: 20px;
+}
+.inside_right {
+  width: 49%;
+  margin-left: 50px;
+  margin-right: 0px;
+  float: right;
+}
+.form-container{
+ 
+  margin: 5px;
+}
+ul{
+  list-style: none;
+}
